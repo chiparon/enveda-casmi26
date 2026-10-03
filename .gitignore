@@ -1,0 +1,13 @@
+# 比赛数据：仅限比赛及非商业用途，不得公开
+datas/
+*.parquet
+submission.csv
+artifacts/validation_predictions.json
+
+.venv/
+__pycache__/
+*.pyc
+runs/
+checkpoints/
+*.pt
+*.ckpt

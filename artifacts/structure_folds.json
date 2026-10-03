@@ -1,0 +1,23 @@
+{
+  "spectra": 2539608,
+  "raw_structures": 275810,
+  "canonical_structures": 274195,
+  "split_groups": 274184,
+  "ambiguous_raw_structures": 11,
+  "n_folds": 5,
+  "seed": 42,
+  "fold_counts": {
+    "0": 55322,
+    "1": 54953,
+    "2": 55118,
+    "3": 55433,
+    "4": 54984
+  },
+  "canonical_fold_counts": {
+    "0": 55018,
+    "1": 54618,
+    "2": 54793,
+    "3": 55096,
+    "4": 54670
+  }
+}
